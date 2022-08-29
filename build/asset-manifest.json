@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.be016824.css",
-    "main.js": "/static/js/main.48670bbf.js",
+    "main.js": "/static/js/main.90f13daf.js",
     "static/media/Greenwall.otf": "/static/media/Greenwall.297048b74d331d8c6857.otf",
     "static/media/thailand-island.jpeg": "/static/media/thailand-island.fc6a648da08d5d258af5.jpeg",
     "static/media/singapore-city.jpeg": "/static/media/singapore-city.267ea2fe166d54807476.jpeg",
@@ -9,10 +9,10 @@
     "static/media/Kobajeon.otf": "/static/media/Kobajeon.50b7821805d4888b1419.otf",
     "index.html": "/index.html",
     "main.be016824.css.map": "/static/css/main.be016824.css.map",
-    "main.48670bbf.js.map": "/static/js/main.48670bbf.js.map"
+    "main.90f13daf.js.map": "/static/js/main.90f13daf.js.map"
   },
   "entrypoints": [
     "static/css/main.be016824.css",
-    "static/js/main.48670bbf.js"
+    "static/js/main.90f13daf.js"
   ]
 }
