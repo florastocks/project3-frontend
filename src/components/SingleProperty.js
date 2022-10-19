@@ -75,7 +75,7 @@ const SingleProperty = () => {
             </div>
           }
         </>
-        :
+        : 
         <h2>
           {errors ? 'Something went wrong, Please try again Later' : <div className="loading-bar"> <br /> <LinearProgress color="success" /> </div>}
         </h2>
